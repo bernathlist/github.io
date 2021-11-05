@@ -32,6 +32,13 @@
     </header>
      
     <main>
+      //v4.0 Add popup describing app when visitors load webpage the first time
+      window.onload = function() {
+      alert("Welcome to 'Shopping List' App!\n\nCreated by Rock Valley College\n**Javascript(Web233) Students**\n\nQuestions?\nemail Professor Chuck Konkol\nc.konkol@rockvalleycollege.edu\n\nRegister @ RockValleyCollege.edu");
+      populateshoppinglistonload();
+      displayShoppinglists();
+      clearFocus();
+      };
     <img src="https://i.ibb.co/0D8mgVt/Shutterstock-free-logo.jpg" alt="Shutterstock free logo" border="0">
     <h3>Shopping Cart Version</h3>
       <p>Product: <input type="text" id="item" name="item" onkeydown = "if (event.keyCode == 13) document.getElementById('btnSubmit').click()" 

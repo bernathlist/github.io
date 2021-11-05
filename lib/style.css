@@ -25,6 +25,10 @@ h3 {  font-family: 'Kumbh Sans', serif;; margin-top: 0.35em; font-size: 2em; let
 
 main p { font-family: 'Roboto', sans-serif; color: #32363f; font-size: 20px;}
 
+#costLabel {
+	display:none;
+}
+
 .button {
   background-color: #4b4be6;
   border-radius: 10px;

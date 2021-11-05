@@ -19,12 +19,12 @@
         <li>
         <a href="index.html">Lorem</a></li>
         <li>
-        <a href="#intro">Ipsum</a></li>
+        <a href="index.html">Ipsum</a></li>
         <li class="notMobile">
-        <a href="#gallery">Lorem</a></li>
-        <li><a href="#park">Ispum</a></li> 
-        <li><a href="#studentUnion">Lorem</a></li>
-        <li><a href="#tour">Ipsum</a></li>
+        <a href="index.html">Lorem</a></li>
+        <li><a href="index.html">Ispum</a></li> 
+        <li><a href="index.html">Lorem</a></li>
+        <li><a href="index.html">Ipsum</a></li>
         </ul>
     </nav>
      <header>

@@ -1,0 +1,84 @@
+/* Add your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@700&family=Roboto:ital,wght@1,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+#wrapper { text-align: left; width: 80%; margin: auto;  min-width: 960px ; max-width: 2048px ; background-color: #38D9C7; border-radius: 25px; }
+
+body { background-color: #DCCDFF; color:#666666; font-family: Arial, Helvetica, sans-serif;  }
+
+main { padding-top: 1px; padding-right: 25px; padding-bottom: 20px; 
+	padding-left: 20px; display: block; 
+	background-color: #FFFFFF; margin-left: 190px; 
+	padding-left: 30px; border-radius: 25px; margin-right: 0.5em;  height: 100%; }
+header { background-color: #4A55F0; color:#FFFFFF;line-height: 60px; text-align: center; padding-top: 15px; height: 150px; padding-top: 30px; padding-left: 3em; border-radius: 25px; margin-right: 0.5em; padding-left: 50px; display: block; margin-left: 12em; }
+
+nav { font-weight: bold; padding: 3px;   font-size: 120%; float: left; width: 185px; position: fixed; z-index: 9999; 
+background-color: #75FC42; 
+border-radius: 25px; }
+
+img {  width: 310px; height: 180px; }
+
+h1 { margin-bottom: 0; font-family: 'Kumbh Sans', sans-serif; margin-top: 0.35em; font-size: 3em; letter-spacing: 0.25em;  }
+
+h3 {  font-family: 'Kumbh Sans', serif;; margin-top: 0.35em; font-size: 2em; letter-spacing: 0.12em; }
+
+main p { font-family: 'Roboto', sans-serif; color: #32363f; font-size: 20px;}
+
+.button {
+  background-color: #4b4be6;
+  border-radius: 10px;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#remove {
+  background-color: #f85b5b;
+  border-radius: 10px;
+  color: white;
+  padding: 8px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+
+/*
+.addButton {
+  background-color: #3ff04e;
+  border-radius: 10px;
+  color: white;
+  padding: 8px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+*/
+
+/*
+.editButton {
+  background-color: #cff32f;
+  border-radius: 10px;
+  color: white;
+  padding: 8px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+*/
+
+p #MyList {
+  font-family: 'Roboto', sans-serif; color: #1c212b; font-size: 16px;
+}
+
+p #MyCart {
+  font-family: 'Roboto', sans-serif; color: #32363f; font-size: 20px;
+}
+
+footer { margin: auto; background-color: #DB46DA; color: white; font-size: 75%; font-style: italic; font-family: Georgia, 'Times New Roman', serif; text-align: center; padding: 20px; clear: both; border-radius: 25px; }

@@ -43,7 +43,7 @@
     <h3>Shopping Cart Version</h3>
       <p>Product: <input type="text" id="item" name="item" onkeydown = "if (event.keyCode == 13) document.getElementById('btnSubmit').click()" 
       maxlength="18" placeholder="enter item < 19 characters" /> </p>
-      <p>Cost: &nbsp;&nbsp;<input type="text" id="cost" name="cost" /></p><br>
+      <! -- <p>Cost: &nbsp;&nbsp;<input type="text" id="cost" name="cost" /></p> --> <br> 
       <input class="button" id="btnSubmit" name="submit" type="button" value="Add Item" onclick="addShoppinglist(item.value, cost.value)" /><br>
       <p id="MyList"></p>
       <p id="MyCart"></p>  

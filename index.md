@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="stylesheet" href="lib/style.css">
-    <title>Shopping Cart Version 4.0</title> 
+    <title>Shopping Cart Version</title> 
     <script src="lib/script.js"></script> 
   </head>
 
@@ -33,7 +33,7 @@
      
     <main>
     <img src="https://i.ibb.co/0D8mgVt/Shutterstock-free-logo.jpg" alt="Shutterstock free logo" border="0">
-    <h3>Shopping Cart Version 4.0</h3>
+    <h3>Shopping Cart Version</h3>
       <p>Product: <input type="text" id="item" name="item" onkeydown = "if (event.keyCode == 13) document.getElementById('btnSubmit').click()" 
       maxlength="18" placeholder="enter item < 19 characters" /> </p>
       <p>Cost: &nbsp;&nbsp;<input type="text" id="cost" name="cost" /></p><br>

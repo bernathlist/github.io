@@ -51,6 +51,17 @@ main p { font-family: 'Roboto', sans-serif; color: #32363f; font-size: 20px;}
   font-size: 14px;
 }
 
+#adds {
+  background-color: #3ff04e;
+  border-radius: 10px;
+  color: white;
+  padding: 8px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+
 /*
 .addButton {
   background-color: #3ff04e;

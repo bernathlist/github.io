@@ -52,7 +52,7 @@
   </body>
 
   <footer>
-         <a href="http://rvchourofcode.com" target="_blank">Join the Rock Valley College Hour of Code Family</a>
+         <a href="http://rvchourofcode.com" target="_blank">Join the Rock Valley College Hour of Code Family</a><br>
          Stuart Bernath<br>
             3301 N Mulford Rd,<br> Rockford, IL 61114<br>
             <a href="mailto:stuart@bernath.com">stuart@bernath.com</a><br>

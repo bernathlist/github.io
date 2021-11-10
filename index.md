@@ -40,7 +40,9 @@
       <p id="costLabel" >Cost: &nbsp;&nbsp;<input type="text" id="cost" name="cost" /></p> <br> 
       <input class="button" id="btnSubmit" name="submit" type="button" value="Add Item" onclick="addShoppinglist(item.value, cost.value)" /><br>
       <p id="MyList"></p>
-      <p id="MyCart"></p>  
+      <p id="labels"></p>
+      <p id="MyCart"></p>   
+    <center><input class="button" id="about" name="submit" type="submit" value="about" onclick="about()" /> </center>
       <center><p id="sharelist"></p></center>
       <center><p id="sharebutton"></p></center>
 

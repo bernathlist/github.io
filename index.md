@@ -41,7 +41,9 @@
       <input class="button" id="btnSubmit" name="submit" type="button" value="Add Item" onclick="addShoppinglist(item.value, cost.value)" /><br>
       <p id="MyList"></p>
       <p id="MyCart"></p>  
-     
+      <center><p id="sharelist"></p></center>
+      <center><p id="sharebutton"></p></center>
+
      
 
 
